@@ -1,3 +1,3 @@
 git add .
-git commit -S -m "devop: repo init"
-git push origin main
+git commit -S -m "devop: avoid deep ifs"
+git push origin develop
